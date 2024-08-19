@@ -1,1 +1,4 @@
-
+git status
+git add .
+git commit -m "Update site files"
+git push origin main
